@@ -1,0 +1,55 @@
+body {
+  overflow: hidden;
+}
+
+.section {
+  position: relative;
+  height: 95vh;
+}
+
+.logo {
+ color: #b5b5b5;
+ padding: 0;
+ margin-bottom: 20px;
+ text-align: left;
+ width: 100px;
+}
+
+.brands-section {
+    display: flex;
+}
+
+.subtitle {
+    font-size: 20px;
+}
+.brands {
+    display: inline-flex;
+    width: 100%;
+    
+}
+div a, span {
+  color: #b5b5b5;
+  text-decoration: none;
+  font-weight: 800;
+}
+
+a:hover {
+    color: #6ff32d;
+}
+
+/* Font Awesome */
+.fab, .far, .fas {
+  padding: 5px;
+  font-size: 24px;
+  text-align: center;
+  color: #222;
+  vertical-align: middle;
+}
+
+.fas:hover, .fab:hover {
+    color: #6ff32d;
+}
+
+#social-bar {
+    margin-top: 20px;
+}

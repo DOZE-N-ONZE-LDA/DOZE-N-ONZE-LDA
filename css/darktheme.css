@@ -1,0 +1,10 @@
+body {
+  color: #b5b5b5;
+  background-color: #121212;
+  font-family: 'Fira Code', monospace;
+}
+
+body a:not(.highlighted-words) {
+  color: #b5b5b5;
+  
+}
