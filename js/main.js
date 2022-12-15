@@ -49,7 +49,7 @@ var connectParagraphToHeaders = true;
   also use tags such as <a>, <span>, and a few more here.
 */
 var rotatingParagraphs = [
-    "A brand new startup leveraging ai-driven technologies to analyze market data for product research and development.",
+    "A brand new startup leveraging AI-driven technologies to analyze market data for product research and development.",
     "The first output of our cutting-edge approach is a lifestyle brand focused on marginal improvement through crowdmotivating efforts.",
     "Our most recent venture, mondojap, is a product research company finding a balance between innovative applications and timeless craftmanship."
 ];
